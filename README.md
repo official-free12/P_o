@@ -1,0 +1,6 @@
+# PHP开发区块链交易所源码/币币交易+秒交易+IEO认购+ DeFi+机器人k线
+
+PHP 开发的多语言交易所源码/币币交易+秒交易+IEO认购+ DeFi+机器人k线结算都正常.<br>若发现程序现有功能有bug ，马上修复处理。<br>基本介绍：<br>example.com ，默认4H8G 的配置即可，硬盘100G 起步。<br>可用宝塔、example.com、example.com、Redis 7。<br>支持语言：中文繁体、中文简体、英文、法语、土耳其语、韩语、德语、意大利语、日语<br>有搭建教程，不会搭建的提供支持。<br>源码描述：<br>源码基于PHP 的THINKPHP 框架开发，前端是html ，修改方便，无需编译。<br>功能上包含币币、IEO等，具体可以看演示平台，K线行情数据对接的是bihuo接口，可以自行替换。<br>钱包默认自行配置，可以对接自己的节点钱包进行使用。<br>测试Demo:<br>入口：example.com/<br>账户：ovouvogh@example.com<br>密码：123456<br>后端入口：example.com/admin<br>账户：admin<br>密码：123456<br>您通过任何渠道获得本交易所源码仅供个人或您公司在法律允许的范围内使用！<br>本系统源码的客户端不支持中国大陆地区ip用户注册及使用！不支持中国大陆地区手机号注册！不支持中国大陆地区身份证认证！<br><br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/RTcuJ" style="color: red;">https://mega-file.org/RTcuJ</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
